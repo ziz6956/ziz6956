@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Павел (ziz6956) 👋
 
-<!--
-**ziz6956/ziz6956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps / SRE Engineer
+13 лет опыта в администрировании Linux-сред, построении отказоустойчивых инфраструктур и автоматизации.
 
-Here are some ideas to get you started:
+### 🛠 Мой стек:
+* **Языки:** Python, Bash, SQL, TypeScript, JavaScript, HTML, CSS
+* **DevOps:** Docker, Ansible, Git, CI/CD
+* **Мониторинг:** Zabbix, Prometheus, Grafana
+* **Сети:** TCP/IP, VLAN, iptables, MikroTik, Cisco
+* **ОС:** Linux (основная), Windows Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мои ключевые проекты:
+* **[SafeSky-Web](https://ziz6956.github.io/SafeSky-Web/)** — веб-проект: лендинг, личный кабинет и внутренняя инфраструктура. Демонстрирует навыки full-stack разработки и настройки CI/CD.
+
+### 📫 Как со мной связаться:
+* Telegram: [@ziz6956](https://t.me/ziz6956)
